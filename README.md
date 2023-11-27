@@ -14,6 +14,7 @@
  - The python environment requires this packages installed:
 	 - pip install -q gensim
 	 - pip install -q pandas
+	 - pip install -q matplotlib 
  - Download http://vectors.nlpl.eu/repository/20/40.zip
 	- This is the model for Task 2 model English-CoNLL17-100
  	- unzip the content on the folder where executing the code  .\
