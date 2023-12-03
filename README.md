@@ -22,12 +22,13 @@
 	- after the extraction verify that this file is present in the folder 40
 		.\40\model.bin
  - The other models are going to be downloaded in the execution by using gensim library
- - Verify that books for 5-books-corpus are in the root
+ - Verify that books for 5-books-corpus are in the root folder
    - aliseinwonderland.txt
    - the_hound_of_baskervilles.txt
    - frankenstein.txt
    - thegreatgatsby.txt
    - xmascarol.txt
+- Verify synonym.csv is in the root folder
 
 ###  Runing the experiment
  -  Open the file Assignment_2.ipynb on Jupyter notebook or lab
